@@ -1,0 +1,19 @@
+# Lab Experiment Notes
+
+## Experiment Date: 2025-05-01
+### Objective:
+To measure the impact of variable conditions on the sample outcomes.
+
+### Measurements:
+- Measurement 1: Temperature (°C)
+- Measurement 2: Pressure (atm)
+- Measurement 3: Humidity (%)
+
+### Observations:
+- Ensure all equipment is calibrated before starting.
+- Record any anomalies during measurements.
+- Review data for consistency after each session.
+
+### Next Steps:
+- Analyze the collected data.
+- Prepare for the next round of experiments.
